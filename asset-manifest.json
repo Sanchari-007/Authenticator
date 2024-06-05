@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Authenticator/static/css/main.aa04a462.css",
+    "main.js": "/Authenticator/static/js/main.9c80f418.js",
+    "static/js/453.83d49121.chunk.js": "/Authenticator/static/js/453.83d49121.chunk.js",
+    "static/media/Totoro.jpg": "/Authenticator/static/media/Totoro.5bdd4aa7806909364436.jpg",
+    "index.html": "/Authenticator/index.html",
+    "main.aa04a462.css.map": "/Authenticator/static/css/main.aa04a462.css.map",
+    "main.9c80f418.js.map": "/Authenticator/static/js/main.9c80f418.js.map",
+    "453.83d49121.chunk.js.map": "/Authenticator/static/js/453.83d49121.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa04a462.css",
+    "static/js/main.9c80f418.js"
+  ]
+}
