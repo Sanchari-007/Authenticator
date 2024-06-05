@@ -1,2 +1,2 @@
-A Pastel Authenticator using ReactJS & Tailwind CSS
-https://sanchari-007.github.io/Authenticator/
+A Pastel Authenticator Frontend using ReactJS & Tailwind CSS. 
+
